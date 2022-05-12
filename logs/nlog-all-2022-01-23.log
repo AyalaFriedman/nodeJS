@@ -1,0 +1,9 @@
+2022-01-23 12:18:29.8028||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-23 12:18:29.8519||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-23 12:18:29.8708||INFO|Microsoft.Hosting.Lifetime|Content root path: M:\web api\WebApiProject\WebApiProject 
+2022-01-23 12:18:47.0533||INFO|BL.OrederBL|------user 1try to change the sum order------ 
+2022-01-23 12:21:01.7609||INFO|BL.OrederBL|------user 1try to change the sum order------ 
+2022-01-23 12:30:01.1478||INFO|WebApiProject.Startup|we love u 
+2022-01-23 12:30:01.3226||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-23 12:30:01.3364||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-23 12:30:01.3541||INFO|Microsoft.Hosting.Lifetime|Content root path: M:\web api\WebApiProject\WebApiProject 
